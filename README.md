@@ -1,6 +1,6 @@
 [
   {
     "س": "خ",
-    "م": "https://s4.uupload.ir/files/ic_launcher_s8re.png"
+    "م": "https://cdn.gaplication.com/o/3bbe0dbf0b954e20ae8101091e8b5e6e.png"
   }
 ]

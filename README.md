@@ -13,7 +13,7 @@
   },
 
 {
-    "س": "ceips",
+    "س": "چممممممم",
     "م": "https://cdn.gaplication.com/o/7d1b2514f1c34c79bc79af175762a94f.png"
   }
 
